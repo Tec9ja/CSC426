@@ -26,7 +26,7 @@ Demo Credentials: Username: Tec9ja
 
 Password: Bosstech@1124u1
 
-Live Deployment: httpS://event.axispointdistributions.com/
+Live Deployment: https://event.axispointdistributions.com/
 
 Repository Structure
 Plaintext
