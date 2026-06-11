@@ -26,7 +26,7 @@ Demo Credentials: Username: Tec9ja
 
 Password: Bosstech@1124u1
 
-Live Deployment: http://webdevportal1.axispointdistributions.com/
+Live Deployment: httpS://event.axispointdistributions.com/
 
 Repository Structure
 Plaintext
